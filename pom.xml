@@ -11,6 +11,7 @@
 
     <modules>
         <module>SpringEmail</module>
+        <module>FlywaySample</module>
     </modules>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
