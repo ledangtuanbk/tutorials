@@ -1,0 +1,7 @@
+version: '3'
+services:
+  test:
+    container_name: my_app
+    env_file:
+      - ~/Documents/en.test.env
+    image: java_app
